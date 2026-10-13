@@ -1,7 +1,7 @@
 ---
 title: "Agent Guide to the Accessibility and Inclusive Design Knowledge Base"
 version: "1.0.0"
-author: "Double FW; AI-assisted synthesis of repository material by Gareth Ford Williams"
+author: "Double FW; material by Gareth Ford Williams"
 date: "2026-10-13"
 license: "MIT"
 language: "en-GB"
