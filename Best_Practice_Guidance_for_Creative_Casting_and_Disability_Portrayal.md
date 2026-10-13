@@ -1,7 +1,7 @@
 ---
 title: "Best Practice Guidance for Creative Casting and Disability Portrayal in Scripted Television and Film"
 short_title: "Creative Disability Casting and Portrayal"
-author: "Gareth Ford Williams"
+author: "Gareth Ford Williams and Zak Ford-Williams"
 language: "en-GB"
 document_type:
   - "practitioner_guide"
