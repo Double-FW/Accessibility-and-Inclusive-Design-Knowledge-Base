@@ -1,3 +1,44 @@
+---
+title: "Mobile First UX Accessibility Principles, Design Requirements and Testing Approaches"
+version: "1.0"
+author: "Double FW Ltd"
+date: "2026-10-14"
+license: "MIT"
+language: "en-GB"
+repository: "https://github.com/Double-FW/Accessibility-and-Inclusive-Design-Knowledge-Base"
+artifact_type: "guidance_document"
+use_case: "mobile_first_accessibility_design_and_testing"
+entities:
+  - platform_standards
+  - standard_interface_controls
+  - platform_accessibility
+  - multiple_interaction_modes
+  - audio_visual_alternatives
+  - autoplay_control
+  - media_metadata
+  - volume_control
+  - audio_conflict
+  - colour_contrast
+  - colour_meaning
+  - styling_readability
+  - touch_target_size
+  - spacing
+  - content_resizing
+  - actionable_elements
+  - visible_focus
+  - consistency
+  - choice
+  - adjustability
+  - flicker_safety
+  - labelling_and_language
+  - instructions
+  - focus_and_navigation
+  - structural_semantics
+  - text_equivalents
+  - roles_traits_properties
+  - outcome_based_validation
+---
+
 # Mobile First UX Accessibility Principles, Design Requirements and Testing Approaches
 
 ---
@@ -7,13 +48,13 @@
 Accessible mobile applications and websites must be designed and developed using approaches that ensure compatibility, predictability, and inclusivity across different user needs and technologies.
 
 ### Use platform and web standards as intended  
-Applications and websites must follow platform and web standards in their intended way. Deviating from standard implementation introduces risk, particularly for users who depend on platform-level accessibility features such as screen readers, magnification, or alternative input systems.
+Applications and websites must follow platform and web standards in their intended way. Deviating from standard implementation introduces risk, particularly for users who depend on platform-level [...]
 
 ### Use standard interface controls where possible  
-Standard interface controls inherently include accessibility semantics, behaviours, and compatibility with assistive technologies. Custom controls often fail to replicate these fully, which can result in reduced usability or complete inaccessibility.
+Standard interface controls inherently include accessibility semantics, behaviours, and compatibility with assistive technologies. Custom controls often fail to replicate these fully, which can re[...]
 
 ### Support platform accessibility  
-All functionality and content must work alongside native accessibility features rather than overriding or disabling them. Users may rely on multiple accessibility features simultaneously, and systems must support this flexibility.
+All functionality and content must work alongside native accessibility features rather than overriding or disabling them. Users may rely on multiple accessibility features simultaneously, and syst[...]
 
 ### Support multiple modes of interaction  
 Users must be able to interact with content using different input methods, including touch, keyboard, voice, and assistive technologies. No single method should be required to complete an action.
@@ -23,7 +64,7 @@ Users must be able to interact with content using different input methods, inclu
 ## Audio and Video
 
 ### Alternatives for audio and visual content (must)  
-All audio and visual media must include alternative formats such as subtitles, transcripts, audio description, or equivalent representations. These alternatives ensure that users who cannot perceive one modality can still access the same information.
+All audio and visual media must include alternative formats such as subtitles, transcripts, audio description, or equivalent representations. These alternatives ensure that users who cannot percei[...]
 
 **Approach**  
 Provide equivalent information across multiple modalities. Ensure synchronisation between media and its alternatives.
