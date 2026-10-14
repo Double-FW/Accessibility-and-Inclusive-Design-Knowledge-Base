@@ -1,12 +1,40 @@
+---
+title: "Accessibility Is Not Always Equal"
+version: "1.0.0"
+author: "Gareth Ford Williams; Double FW"
+date: "2026-10-13"
+license: "MIT"
+language: "en-GB"
+repository: "https://github.com/Double-FW/Accessibility-and-Inclusive-Design-Knowledge-Base"
+artifact_type: "knowledge_article"
+use_case:
+  - policy_and_guidance_drafting
+  - product_design_and_delivery
+  - service_delivery
+  - research
+  - training_resource_preparation
+schema_version: "1.0"
+conceptual_entities:
+  person: "A person with intentions, access needs, preferences and lived experience; never reducible to a diagnosis."
+  context: "Task, language, device, connectivity, environment and socioeconomic circumstances."
+  barrier: "A feature of a system, process or environment that obstructs access or participation."
+  interaction: "A sequence of choices, states, feedback, recovery and channel transitions."
+  outcome: "Task success together with understanding, effort, agency, privacy, dignity and comparative experience."
+  organisational_promise: "The commitment a product, policy or service must make real."
+  evidence: "An attributed observation, report, test or argument with scope and limitations."
+  decision: "An accountable choice linked to evidence, affected people, alternatives and validation."
+  escalation: "An unresolved material issue referred to an accountable human with a recorded disposition."
+---
+
 # Digital Disability Access Through Socioeconomic and Cultural Lenses
 
 ## Introduction
 
-Digital accessibility is often framed as a technical or legal discipline focused on compliance with standards such as WCAG, EN 301 549, the Americans with Disabilities Act (ADA), the European Accessibility Act (EAA), the Accessible Canada Act (ACA), or Section 508. While these frameworks provide important foundations, they are not complete representations of global disability access needs.
+Digital accessibility is often framed as a technical or legal discipline focused on compliance with standards such as WCAG, EN 301 549, the Americans with Disabilities Act (ADA), the European Acces[...]
 
 The reality is that digital accessibility is deeply shaped by economics, geography, politics, language, infrastructure, education, class, and cultural power.
 
-Many accessibility assumptions are based on experiences from wealthy, technologically mature nations with high broadband penetration, advanced operating systems, expensive smartphones, modern browsers, stable electricity infrastructure, and widespread access to commercial assistive technologies. This creates a structural bias in accessibility thinking.
+Many accessibility assumptions are based on experiences from wealthy, technologically mature nations with high broadband penetration, advanced operating systems, expensive smartphones, modern brows[...]
 
 As a result, many accessibility approaches unintentionally optimise for disabled users who:
 
@@ -23,7 +51,7 @@ Large portions of the global disabled population do not fit this model.
 
 Digital inequality therefore exists not only between disabled and non-disabled people, but also between disabled populations themselves.
 
-This document explores digital disability access through socioeconomic and cultural perspectives, examining how accessibility gaps emerge across regions, technologies, income groups, and political systems. It also explores the ethical and economic implications of these inequalities and proposes measurable approaches for more equitable accessibility planning.
+This document explores digital disability access through socioeconomic and cultural perspectives, examining how accessibility gaps emerge across regions, technologies, income groups, and political[...]
 
 The document builds upon themes explored in the attached article on inequalities in digital accessibility.
 
@@ -225,7 +253,7 @@ In reality, these users may include:
 
 The absence of data therefore becomes a structural accessibility bias.
 
-The attached article highlights how the BBC Red Button service nearly faced closure because the audience was difficult to measure using conventional digital analytics approaches. Charities and community organisations ultimately provided the missing evidence demonstrating the platform’s importance to disadvantaged audiences.
+The attached article highlights how the BBC Red Button service nearly faced closure because the audience was difficult to measure using conventional digital analytics approaches. Charities and communi[...]
 
 ---
 
