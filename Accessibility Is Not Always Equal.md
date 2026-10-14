@@ -30,17 +30,18 @@ conceptual_entities:
 
 ## Introduction
 
-Digital accessibility is often framed as a technical or legal discipline focused on compliance with standards such as WCAG, EN 301 549, the Americans with Disabilities Act (ADA), the European Acces[...]
+Digital accessibility is often framed as a technical or legal discipline focused on compliance with standards such as WCAG, EN 301 549, the Americans with Disabilities Act (ADA), the European Accessibility Act, BBC Accessibility Guidelines and other domestic regulatory frameworks focus on design as an agnostic benchmarking process whereas inclusive designed experiences cannot be guaranteed by a checklist, an audit or guidelines.
 
-The reality is that digital accessibility is deeply shaped by economics, geography, politics, language, infrastructure, education, class, and cultural power.
+The reality is that digital accessibility is deeply shaped by economics, geography, politics, language, infrastructure, education, class, education, experience and cultural power.
 
-Many accessibility assumptions are based on experiences from wealthy, technologically mature nations with high broadband penetration, advanced operating systems, expensive smartphones, modern brows[...]
+Many accessibility assumptions are benchmarked on experiences from wealthy, technologically mature demographics in nations with high broadband penetration, advanced operating systems, expensive smartphones, access to employment, government support and other privileges.
 
 As a result, many accessibility approaches unintentionally optimise for disabled users who:
 
 - live in developed economies
 - have stable internet access
 - own modern devices
+- are wealthy
 - possess digital literacy
 - speak globally supported languages
 - can afford assistive technologies
@@ -51,9 +52,7 @@ Large portions of the global disabled population do not fit this model.
 
 Digital inequality therefore exists not only between disabled and non-disabled people, but also between disabled populations themselves.
 
-This document explores digital disability access through socioeconomic and cultural perspectives, examining how accessibility gaps emerge across regions, technologies, income groups, and political[...]
-
-The document builds upon themes explored in the attached article on inequalities in digital accessibility.
+This document explores digital disability access through socioeconomic and cultural perspectives, examining how accessibility gaps emerge across regions, technologies, income groups, and political classes.
 
 ---
 
@@ -74,7 +73,7 @@ At a global level, disabled users in high-income nations often benefit from:
 - strong legal protections
 - digital literacy support
 - mature accessibility ecosystems
-- local language support
+- local language support in text to speech engines
 
 Disabled users in lower-income nations may experience:
 
@@ -252,8 +251,6 @@ In reality, these users may include:
 - users without broadband
 
 The absence of data therefore becomes a structural accessibility bias.
-
-The attached article highlights how the BBC Red Button service nearly faced closure because the audience was difficult to measure using conventional digital analytics approaches. Charities and communi[...]
 
 ---
 
