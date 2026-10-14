@@ -24,7 +24,7 @@ Good experiences rarely result from one design decision.
 
 They emerge when the promise made by an organisation, the capability of its product, the behaviour of its interface and the reality of a person's situation come together at the right moment.
 
-When that happens, the experience can feel almost synchronistic. The product seems to understand what the person is trying to do. Information appears when it becomes useful. Feedback makes sense. [...]
+When that happens, the experience can feel almost synchronistic. The product seems to understand what the person is trying to do. Information appears when it becomes useful. Feedback makes sense.
 
 This is not coincidence. It is the result of deliberate alignment.
 
@@ -44,7 +44,7 @@ They are not a sequence of stages. They are questions that should remain active 
 
 What an organisation says should be supported by what its products and services actually do.
 
-A promise of simplicity, independence, personalisation or inclusion creates an expectation. That expectation cannot be fulfilled by communications alone. It must be expressed through product behav[...]
+A promise of simplicity, independence, personalisation or inclusion creates an expectation. That expectation cannot be fulfilled by communications alone. It must be expressed through product behaviour and the opportunity for customers to feedback on how satisfactory their user experience is.
 
 If an organisation promises independence but some customers must ask for help to complete an ordinary task, the transaction may succeed while the promise fails.
 
@@ -58,7 +58,7 @@ Brand is not separate from experience. The experience is where the promise is te
 
 People use products to achieve purposes. They do not use them because they want to complete a user flow.
 
-A flow should support what someone is trying to accomplish rather than require them to follow the organisation's preferred route. People should be able to pause, reconsider, change direction and retur[...]
+A flow should support what someone is trying to accomplish rather than require them to follow the organisation's preferred route. People should be able to pause, reconsider, change direction and return to the start with little effort and for the system to provide prompts or hints if the user gets stuck on a task.
 
 If successful use depends on behaving exactly as the design team expected, the experience is aligned with the process rather than the person.
 
@@ -70,7 +70,7 @@ If successful use depends on behaving exactly as the design team expected, the e
 
 Information, feedback and assistance should appear when they become meaningful.
 
-Information provided too early may be forgotten. Information provided too late may no longer help. A warning that interrupts someone before they understand its relevance can be as unhelpful as a w[...]
+Information provided too early may be forgotten. Information provided too late may no longer help. A warning that interrupts someone before they understand its relevance can be as unhelpful.
 
 Timing must also work across different forms of interaction. Feedback that is immediate visually but delayed, incomplete or absent through another mode is not meaningfully synchronised.
 
@@ -90,7 +90,7 @@ People should be able to understand:
 - what consequences a decision may have;
 - how to change, reverse or correct it.
 
-Speed is not the same as flow. Removing steps is not automatically an improvement if the remaining journey becomes harder to understand. Sometimes a pause, explanation or confirmation is part of a goo[...]
+Speed is not the same as flow. Removing steps is not automatically an improvement if the remaining journey becomes harder to understand. Sometimes a pause, explanation or confirmation is part of a good customer experience.
 
 **Ask:** Can the person remain oriented and make informed choices throughout the journey?
 
@@ -111,9 +111,9 @@ An equivalent experience should provide a comparable:
 - demand on time and effort;
 - likelihood of success.
 
-An alternative is not necessarily equivalent. “You can call us instead” may make a task technically possible, but it is not comparable if the main route is private and available at any time wh[...]
+An alternative is not necessarily equivalent, it can also be comparable. “You can call us instead” may make a task technically possible, but it is not comparable if the main route is private and available at any time.
 
-Reaching the same administrative endpoint does not prove equivalence of experience.
+Reaching the same administrative endpoint does not prove equivalence of experience, which is why quantitative satisfaction scores that can be filtered by different disability demographics are so important.
 
 **Ask:** Does the alternative preserve what matters, or does it merely make completion possible?
 
@@ -123,9 +123,9 @@ Reaching the same administrative endpoint does not prove equivalence of experien
 
 When the system changes, that change must be perceivable and understandable through the ways people are using it.
 
-An address lookup may display suggestions at precisely the right moment for a sighted mouse user. If those suggestions cannot be reached with a keyboard or are not announced by a screen reader, t[...]
+An address lookup may display suggestions at precisely the right moment for a sighted mouse user. If those suggestions cannot be reached with a keyboard or are not announced by a screen reader, they are not accessible.
 
-The same principle applies beyond visual and nonvisual access. A message may appear but disappear before someone can process it. An interaction may change before a person understands what caused [...]
+The same principle applies beyond visual and nonvisual access. A message may appear but disappear before someone can process it. An interaction may change before a person understands what caused it to appear.
 
 **Ask:** Who knows that something has changed, and who has been left in the previous state?
 
@@ -135,9 +135,9 @@ The same principle applies beyond visual and nonvisual access. A message may app
 
 Prediction can reduce effort. It can also replace the person's intention with the system's guess.
 
-Systems may suggest, adapt or prepare. They should not quietly remove choice or make assumptions difficult to recognise and correct. People need to understand important predictions, reject them a[...]
+Systems may suggest, adapt or prepare. They should not quietly remove choice or make assumptions difficult to recognise and correct. People need to understand important predictions, reject them if they choose or act upon them in a way or time that aligns with their needs.
 
-This becomes particularly important when AI shapes interfaces, content or customer journeys. Appearing to understand a person is not the same as understanding them. Sometimes the most respectful [...]
+This becomes particularly important when AI shapes interfaces, content or customer journeys. Appearing to understand a person is not the same as understanding them.
 
 Anticipation should be useful, not compulsory.
 
@@ -168,7 +168,7 @@ Recovery should preserve as much context, progress and dignity as possible. When
 
 Customers experience one organisation even when responsibility is divided between brand, product, UX, technology, service and accessibility teams.
 
-The handovers between those areas are often where alignment fails. An interface may be accessible while the policy behind it is exclusionary. A digital channel may remember the customer while the[...]
+The handovers between those areas are often where alignment fails. An interface may be accessible while the policy behind it is exclusionary.
 
 Specialist teams remain necessary. The aim is not to remove their distinct expertise. It is to prevent organisational boundaries from becoming barriers within the customer experience.
 
@@ -180,7 +180,7 @@ Specialist teams remain necessary. The aim is not to remove their distinct exper
 
 Task completion, technical conformance and satisfaction scores are useful. None tells the whole story.
 
-A person may complete a task while experiencing unnecessary effort, uncertainty or loss of independence. A product may meet defined technical requirements while failing to provide a comparable ex[...]
+A person may complete a task while experiencing unnecessary effort, uncertainty or loss of independence. A product may meet defined technical requirements while failing to provide a comparable functional and emotional experience.
 
 Look for the points at which people:
 
@@ -234,13 +234,13 @@ Relevant principles:
 - Anticipate without taking control.
 - Measure where alignment breaks.
 
-Inclusive design runs through all three levels. It is not a final review stage or an additional link in the chain. It continually tests whose intentions, circumstances and ways of interacting hav[...]
+Inclusive design runs through all three levels. It is not a final review stage or an additional link in the chain. It continually tests whose intentions, circumstances and ways of interacting.
 
 ---
 
 ## A working proposition
 
-> **Synchronistic design does not make people conform to a perfectly designed flow. It keeps the organisation, product and interaction in step with the person—even when that person pauses, chan[...]
+> **Synchronistic design does not make people conform to a perfectly designed flow. It keeps the organisation, product and interaction in step with the person—even when that person pauses or changes their mind. When it comes to user experience expectations, the customer is always right.
 
 The aim is not to make every experience identical. Nor is it to anticipate every possible human situation.
 
