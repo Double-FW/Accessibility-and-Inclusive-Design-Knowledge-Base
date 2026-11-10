@@ -1,0 +1,39 @@
+{
+  "source_repository": "Double-FW/Accessibility-and-Inclusive-Design-Knowledge-Base",
+  "destination_dataset": "GarethFW/Inclusive_Design_Library",
+  "dataset_version": "1.0.0",
+  "files": [
+    "AGENTS.md",
+    "Accessibility Is Not Always Equal.md",
+    "Mobile First Accessibility Principles, Design Requirements and Testing Approaches.md",
+    "README.md",
+    "Stop_Counting_Start_Designing_Rethinking_Accessibility_Metrics.md",
+    "Synchronistic_UX Design_Principles.md",
+    "The_Synchronicity_of_Good_Experience.md",
+    "UX_and_Accessibility_as_Connected_but_Distinct_Disciplines.md",
+    "When_WCAG_Is_Not_Enough_Dark_Patterns_and_Interaction-Based_Exclusion.md"
+  ],
+  "required_files": [
+    "AGENTS.md",
+    "Accessibility Is Not Always Equal.md",
+    "Mobile First Accessibility Principles, Design Requirements and Testing Approaches.md",
+    "README.md",
+    "Stop_Counting_Start_Designing_Rethinking_Accessibility_Metrics.md",
+    "Synchronistic_UX Design_Principles.md",
+    "The_Synchronicity_of_Good_Experience.md",
+    "UX_and_Accessibility_as_Connected_but_Distinct_Disciplines.md",
+    "When_WCAG_Is_Not_Enough_Dark_Patterns_and_Interaction-Based_Exclusion.md",
+    "LICENSE"
+  ],
+  "article_files": [
+    "Accessibility Is Not Always Equal.md",
+    "Mobile First Accessibility Principles, Design Requirements and Testing Approaches.md",
+    "Stop_Counting_Start_Designing_Rethinking_Accessibility_Metrics.md",
+    "Synchronistic_UX Design_Principles.md",
+    "The_Synchronicity_of_Good_Experience.md",
+    "UX_and_Accessibility_as_Connected_but_Distinct_Disciplines.md",
+    "When_WCAG_Is_Not_Enough_Dark_Patterns_and_Interaction-Based_Exclusion.md"
+  ],
+  "supported_guide_schema_major": "1",
+  "approved_license_sha256": "7ef02bc0b6ba376de57be5f27784eef23df6a74068a4a2a172f95ba2c605b7af"
+}
