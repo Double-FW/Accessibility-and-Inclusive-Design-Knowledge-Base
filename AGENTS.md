@@ -1,6 +1,6 @@
 ---
 title: "Agent Guide to the Accessibility and Inclusive Design Knowledge Base"
-version: "1.1.1"
+version: "1.1.2"
 author: "Double FW; material by Gareth Ford Williams"
 date: "2026-11-20"
 license: "MIT"
@@ -15,9 +15,10 @@ use_case:
   - "retrieval_augmented_generation"
   - "ai_assisted_design_workflows"
 schema_version: "1.1"
-source_commit: "aab0a3258c8a960a9073a6e9e0bd48786115a328"
+source_commit: "de2b8d41060d7049001c4b91c8de6226900705ea"
 source_scope: "Seven design-focused articles and LICENSE at source_commit; README.md is current navigation context and is not source-hash-bound"
-external_sources_consulted: false
+external_sources_consulted: true
+external_source_check_scope: "Reference maintenance only: author-published 2021 article locations, W3C caption guidance and Ofcom BBC-reference routing; direct BBC retrieval restricted; article claims not independently revalidated"
 authority: "Repository guidance; not a normative standard, legal opinion or organisational approval"
 conceptual_entities:
   person: "A person with intentions, access needs, preferences, strategies and lived experience; never reducible to a diagnosis."
@@ -40,6 +41,10 @@ review:
   automation_trust: "advisory_only_until_approved_and_configured"
   triggers: [source_change, source_addition, source_removal, rule_change, schema_change, material_incident, review_due]
 changelog:
+  - version: "1.1.2"
+    date: "2026-11-20"
+    change: "Repaired S01 article and caption source routes; distinguished author-published versions, separately authored W3C guidance and restricted BBC retrieval; refreshed snapshot/hash. Catalogue and R01-R11 meanings unchanged. Approval remains pending."
+    review_status: "draft_pending_maintainer_review"
   - version: "1.1.1"
     date: "2026-11-20"
     change: "Restored four truncated S06 paragraphs from original commit 6c57dc4cf5af05baef14633541643a6f9c51c1dd; reviewed affected R05, R06 and R11 routing without changing their meaning; refreshed all manifest hashes against the declared source snapshot. Approval remains pending."
@@ -56,7 +61,7 @@ Use this knowledge base to generate, inspect, test and govern product, service a
 
 This repository is design-focused. It contains no employment, hiring or candidate-assessment guidance. Do not retrieve or invent such content from this knowledge base.
 
-The guide is grounded in the repository snapshot declared above. External links in articles have not been opened or independently verified. Article statements about law, statistics, historical events, vendors and standards retain their stated limitations. Do not present them as current verified facts. Rule IDs, machine contracts, event names, roles, trust checks and templates below are operational conventions introduced by this guide; they are not claims that the authors supplied these exact mechanisms or that an organisation has adopted them.
+The guide is grounded in the repository snapshot declared above. External checks for version 1.1.2 were limited to the reference-maintenance scope recorded above. Other external links and article claims have not been independently reverified. Article statements about law, statistics, historical events, vendors and standards retain their stated limitations. Do not present them as current verified facts. Rule IDs, machine contracts, event names, roles, trust checks and templates below are operational conventions introduced by this guide; they are not claims that the authors supplied these exact mechanisms or that an organisation has adopted them.
 
 ## 1. Quick-start checklist
 
@@ -200,6 +205,7 @@ A later commit that changes only `AGENTS.md` need not change the article source 
 - S06 completeness repair (20 November 2026): four paragraphs under platform/web standards, standard controls, platform accessibility and media alternatives were restored verbatim from original upload `6c57dc4cf5af05baef14633541643a6f9c51c1dd`. R05/R06/R11 and the design/validation routes remain advisory; this restoration adds no verified standards mapping, approval or product-test result.
 - S06 includes a flicker prohibition whose outcome also mentions warnings and controls. Do not interpret the outcome as permission to disregard the prohibition. Its contrast and target-size guidance lacks precise acceptance thresholds. Do not invent a standards mapping or fill thresholds from memory; escalate the gap under R11.
 - S07 recommends socioeconomic segmentation and inclusion quotas but provides no quota values. Read it with S01–S02 on privacy, necessity and safe reporting. Do not infer income, diagnosis or identity from behaviour.
+- S01 reference maintenance (20 November 2026) changes source routes and evidence-access qualifications only. The catalogue remains applicable and R01–R11 retain their existing meanings. These bounded link checks do not change the repository-only operating mode below, establish current legal/statistical claims or grant operational approval.
 - The articles call for current standards and legal evidence in compliance decisions. This guide's source mode is repository-only: record the evidence gap and request authoritative sources; do not silently supplement it with model knowledge.
 - The articles do not specify statistical thresholds, sample sizes, release tolerances, retention durations, reviewer names or response deadlines. These require an authorised deployment policy.
 
@@ -547,6 +553,7 @@ When adding, removing or changing an article, update the source catalogue, rule 
 
 | Version | Date | Change | Review status |
 | --- | --- | --- | --- |
+| 1.1.2 | 2026-11-20 | Repaired S01 external reference routes, recorded bounded external link checks and refreshed the source snapshot/hash; rule meanings unchanged. | Draft; maintainer approval and deployment configuration outstanding. |
 | 1.1.1 | 2026-11-20 | Restored four S06 paragraphs from the original uploaded file; refreshed all eight manifest hashes and checked affected rule references. | Draft; maintainer approval and deployment configuration outstanding. |
 | 1.1.0 | 2026-10-14 | Refocused on design and design processes; removed employment source, routing and rule; refreshed contracts, examples, observability, source snapshot and README. | Draft; maintainer approval and deployment configuration outstanding. |
 | 1.0.0 | 2026-10-13 | Initial repository-only synthesis and agent workflow contracts. | Superseded; draft. |
@@ -565,6 +572,6 @@ source_manifest:
   "Stop_Counting_Start_Designing_Rethinking_Accessibility_Metrics.md": "e058869d40d6aa13e6006ebb8b7d7bb89bbba8bf6cc494b5437755c69fb4c904"
   "Synchronistic_UX Design_Principles.md": "3326a23b2cfc78c0d7a000ff1f7a9b7f16bb70b723d9202e7670f9cd80f4aa49"
   "The_Synchronicity_of_Good_Experience.md": "cd26d820038ba50e3a828382b5cc87bf426d227f281fcb0fa71c006c8c975ab5"
-  "UX_and_Accessibility_as_Connected_but_Distinct_Disciplines.md": "a4a05ce7691a25f58505ea94aa5898a23a728d49e1f0b1d85b956faad34d6e6a"
+  "UX_and_Accessibility_as_Connected_but_Distinct_Disciplines.md": "3a48b1f4911feb26ac4ce053ac381c1086ca8a448df77b67c8394adcbd26a0dc"
   "When_WCAG_Is_Not_Enough_Dark_Patterns_and_Interaction-Based_Exclusion.md": "650c7514795fc2700b4e30e0790a28fb7c9e33766ca11b53fab72c2249b9d7ae"
 ```
