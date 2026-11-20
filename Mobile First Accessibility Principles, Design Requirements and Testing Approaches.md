@@ -48,13 +48,13 @@ entities:
 Accessible mobile applications and websites must be designed and developed using approaches that ensure compatibility, predictability, and inclusivity across different user needs and technologies.
 
 ### Use platform and web standards as intended  
-Applications and websites must follow platform and web standards in their intended way. Deviating from standard implementation introduces risk, particularly for users who depend on platform-level [...]
+Applications and websites must follow platform and web standards in their intended way. Deviating from standard implementation introduces risk, particularly for users who depend on platform-level accessibility features such as screen readers, magnification, or alternative input systems.
 
 ### Use standard interface controls where possible  
-Standard interface controls inherently include accessibility semantics, behaviours, and compatibility with assistive technologies. Custom controls often fail to replicate these fully, which can re[...]
+Standard interface controls inherently include accessibility semantics, behaviours, and compatibility with assistive technologies. Custom controls often fail to replicate these fully, which can result in reduced usability or complete inaccessibility.
 
 ### Support platform accessibility  
-All functionality and content must work alongside native accessibility features rather than overriding or disabling them. Users may rely on multiple accessibility features simultaneously, and syst[...]
+All functionality and content must work alongside native accessibility features rather than overriding or disabling them. Users may rely on multiple accessibility features simultaneously, and systems must support this flexibility.
 
 ### Support multiple modes of interaction  
 Users must be able to interact with content using different input methods, including touch, keyboard, voice, and assistive technologies. No single method should be required to complete an action.
@@ -64,7 +64,7 @@ Users must be able to interact with content using different input methods, inclu
 ## Audio and Video
 
 ### Alternatives for audio and visual content (must)  
-All audio and visual media must include alternative formats such as subtitles, transcripts, audio description, or equivalent representations. These alternatives ensure that users who cannot percei[...]
+All audio and visual media must include alternative formats such as subtitles, transcripts, audio description, or equivalent representations. These alternatives ensure that users who cannot perceive one modality can still access the same information.
 
 **Approach**  
 Provide equivalent information across multiple modalities. Ensure synchronisation between media and its alternatives.
